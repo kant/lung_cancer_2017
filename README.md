@@ -15,10 +15,10 @@ It is also not decided if we need a "decision tree layer" or the "ordinary dense
 ---
 
 ## Current status
-Version.0 is uploaded. There is eaxmple to train and test on very small dummy dataset (32 images). I don't expect the results to be good. But it will show that the implementation is correct and hopefully bug-free. Please see the folder "version.0". 
+Version.0 is uploaded. It is an example implementation to train and test on very small dummy dataset (32 images). I don't expect the results to be good. But it shows the implementation is correct and hopefully it is bug-free. Please see the folder "version.0". 
 
 ---
-## references
+## [References]
 **[1] "U-Net: Convolutional Networks for Biomedical Image Segmentation" - Olaf Ronneberger, Philipp Fischer, Thomas Brox, MICCAI 2015**
 
 - [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597)
