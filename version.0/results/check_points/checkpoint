@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/share/out/kaggle/02/check_points/final.ckpt"
+all_model_checkpoint_paths: "/root/share/out/kaggle/02/check_points/final.ckpt"

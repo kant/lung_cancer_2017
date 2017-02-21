@@ -1,0 +1,3 @@
+These imaegs are from luna2016 dataset: https://luna16.grand-challenge.org/
+The copyrights belong to them.
+
