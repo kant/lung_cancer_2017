@@ -1,6 +1,6 @@
 # lung_cancer_2017
 
-This is on going work for [https://www.kaggle.com/c/data-science-bowl-2017](https://www.kaggle.com/c/data-science-bowl-2017). The task is to determine if the patent is likely to be diagnosed with lung cancer or not within one year, given his current CT scans.
+This is on going work for [https://www.kaggle.com/c/data-science-bowl-2017](https://www.kaggle.com/c/data-science-bowl-2017). The task is to determine if the patient is likely to be diagnosed with lung cancer or not within one year, given his current CT scans.
 
 The plan is not fixed yet. 
 
