@@ -6,7 +6,7 @@ The plan is not fixed yet.
 
 ![plan](/docs/images/plan.png)
 
-There are two possible systems. The first one is using 3d segmentation. It labels each 3d voxel  belonging to a nodule or not. The second one is based on 3d object detection. Here, 3d scanning windows of different size and aspects are classified to conatain a nodule or not. This is very much like 3d faster-rcnn. 
+There are two possible systems. The first one is using 3d segmentation. It labels each 3d voxel  belonging to a nodule or not. The second one is based on 3d object detection. Here, 3d scanning windows of different size and aspects are classified to contain a nodule or not. This is very much like 3d faster-rcnn. 
 
 It is also not decided if we need a "decision tree layer" or the "ordinary dense or convolution layer" will be sufficient.
 
